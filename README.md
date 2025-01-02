@@ -114,22 +114,18 @@ plt.show()
 ```
 
 ### Results
-<!-- 
-> Data Skills Globally
-![Top Skills needed for Data Roles](images\job_skills_demand_for_roles.png)
 
+Data Skills Globally
 
-> Data Skills for Africa
-![Top Skills needed for Data Roles Africa](images\job_skills_demand_for_roles_africa.png) -->
+![Top Skills needed for Data Roles](images\likelihood_of_skill_requested.png)
 
 
 
-> Data Skills Globally and for Africa
+Data Skills for Africa
 
-<p align="center">
-  <img src="images\likelihood_of_skill_requested.png" alt="Top Skills needed for Data Roles" width="45%">
-  <img src="images\likelihood_of_skill_requested_africa.png" alt="Top Skills needed for Data Roles Africa" width="45%">
-</p>
+![Top Skills needed for Data Roles Africa](images\likelihood_of_skill_requested_africa.png)
+
+
 
 
 ### Insights:
@@ -160,20 +156,15 @@ plt.show()
 
 # Results
 
-> Trending Top Skills Globally and for Africa
 
-<p align="center">
-  <img src="images\trending_top__skills_for_mle.png" alt="Top Skills needed for Data Roles" width="45%">
-  <img src="images\trending_top__skills_for_mle_africa.png" alt="Top Skills needed for Data Roles Africa" width="45%">
-</p>
+Trend for ML Skills Globally 
+
+![Top Skills needed for ML Roles](images\trending_top__skills_for_mle.png)
 
 
 
+Trend for ML Skills in Africa
 
-> Data Skills Globally
-
-![Top Skills needed for Data Roles](images\job_skills_demand_for_roles.png)
+![Top Skills needed for ML Roles Africa](images\trending_top__skills_for_mle_africa.png)
 
 
-> Data Skills for Africa
-![Top Skills needed for Data Roles Africa](images\job_skills_demand_for_roles_africa.png)
