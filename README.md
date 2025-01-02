@@ -1,5 +1,3 @@
-**ML_Job_Landscape_-_Skills_Demand_Analysis**
-
 # Overview
 
 Hello! Thank you for going through my work. This is an analysis on the job market for Machine Learning roles globally and also give a specical look in to the African job market as well. Focusing on the skills required and salary trends. I worked on this project because I've a strong desire to take on machine learning roles. I wanted to dive deep on what skills are most in demand and top paying. Find out which skills are most optimal for job opportunities for machine learning engineers / data scientists.
